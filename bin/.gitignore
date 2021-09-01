@@ -8,3 +8,5 @@
 /SuperVIPCustomer.class
 /Iterator.class
 /CustomerIterator.class
+/CustomerList$CustomerIterator.class
+/VideoList$VideoIterator.class
